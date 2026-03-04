@@ -1,6 +1,6 @@
 # Hi, I'm Nicolas
 
-> *"simplicity is the ultimate sophistication"*, Leonardo da Vinci
+> *"If you can't explain it simply, you don't understand it well enough."*, Albert Einstein
 
 Full Stack Software Engineer at [EDALAB](https://edalab.it), building cloud-native systems that connect IoT devices to production-grade backends and user-facing applications.
 
@@ -30,14 +30,7 @@ Currently pursuing an MSc in Computer Engineering at the University of Verona, o
 
 - **[GlucoTrack](https://github.com/NicoCorini/GlucoTrack)**: Full-stack telemonitoring platform for Type 2 diabetes. .NET Core API + React Native mobile client, built for a regulated environment.
 - **Campi Agricoli**: Web app for agricultural field analytics. React + TypeScript + SQL + Docker.
-- Smaller experiments in C++ automation, embedded prototypes, and things that probably shouldn't exist but were fun to build. I love building new things.
-
----
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=NicoCorini&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoCorini&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- Smaller experiments in C++ automation, embedded prototypes, and things that probably shouldn't exist but were fun to build.
 
 ---
 
